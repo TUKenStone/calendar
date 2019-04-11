@@ -1,9 +1,9 @@
-import Vue from 'vue'
-import './style.scss'
+import Vue from "vue";
+import "./style.scss";
 
 new Vue({
-  el: '#app',
+  el: "#app",
   data: {
-    msg: 'Hello World'
+    msg: "Hello World"
   }
 });
